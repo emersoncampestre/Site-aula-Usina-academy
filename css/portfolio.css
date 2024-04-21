@@ -1,0 +1,28 @@
+main{
+    text-align: center;
+    
+}
+
+.item-portfolio{
+    
+    display: inline-block;
+    border: 1px solid #261414;
+    margin: 50px
+    
+    
+    
+    
+    
+}
+.item-portfolio  {text-decoration: none;
+    font-weight: bold;
+    color: #f37373;}
+
+    .item-portfolio a {text-decoration: none;
+        font-weight: bold;
+        color: #f37373;}
+
+.item-portfolio img {
+    width: 100%; 
+        height: auto; 
+}
